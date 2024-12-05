@@ -8,7 +8,7 @@
 * https://nvd.nist.gov/vuln/detail/CVE-2022-47085
 
 ## CVE-2024-29720
-...
+RESERVED
 
 
 ## RUSTSEC-2023-0046
