@@ -1,5 +1,8 @@
 # Bug hunting in Rust-based applications
 
+## RUSTSEC-2024-0408
+* https://rustsec.org/advisories/RUSTSEC-2024-0408.html
+
 ## CVE-2022-47085  
 * https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-47085
 * https://nvd.nist.gov/vuln/detail/CVE-2022-47085
